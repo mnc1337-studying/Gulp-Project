@@ -1,11 +1,15 @@
 # Dependencies
 node_modules
 
+# Complied CSS files
+src/styles/main.css
+src/styles/main.css.map
+
 # Logs
 *.log
 npm-debug.log*
 
-# Old build folder
+# Default build folder
 dist
 
 # Editor / OS files
